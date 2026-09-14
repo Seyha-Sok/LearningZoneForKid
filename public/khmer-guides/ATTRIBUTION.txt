@@ -1,0 +1,26 @@
+Khmer tracing guide attribution
+
+29 PNG guides: Basic Khmer, copyright 2022 Vathanak Sok.
+Source: https://openbooks.lib.msu.edu/basickhmer/
+Worksheets:
+https://openbooks.lib.msu.edu/app/uploads/sites/70/2021/07/Worksheet-1.pdf
+https://openbooks.lib.msu.edu/app/uploads/sites/70/2021/08/Worksheet-1-7.pdf
+License: Creative Commons Attribution-NonCommercial 4.0 International
+https://creativecommons.org/licenses/by-nc/4.0/
+Changes: Individual numbered character diagrams cropped and resized for the interactive drawing board. No endorsement implied.
+
+4 SVG guides: Original center-line diagrams for U+178B, U+178C, U+178D and U+1797. Writing-direction reference: Rermork Digital Library, WB3 Consonants Writing Practice, PDF pages 28, 30, 32 and 56.
+https://rermork.org/curriculum/khmer-alphabets/
+Numbers indicate movement order, not necessarily separate pen strokes.
+
+See manifest.json for the character-to-source mapping.
+
+22 additional vowel PNG guides: Basic Khmer, copyright 2022 Vathanak Sok, CC BY-NC 4.0. Individual diagrams cropped and resized from these vowel worksheets:
+https://openbooks.lib.msu.edu/app/uploads/sites/70/2021/08/Worksheet-1.pdf
+https://openbooks.lib.msu.edu/app/uploads/sites/70/2021/08/Worksheet-1-1.pdf
+https://openbooks.lib.msu.edu/app/uploads/sites/70/2021/08/Worksheet-1-2.pdf
+https://openbooks.lib.msu.edu/app/uploads/sites/70/2021/08/Worksheet-1-5.pdf
+https://openbooks.lib.msu.edu/app/uploads/sites/70/2021/08/Worksheet-1-6.pdf
+The dotted circle is a consonant placeholder, not part of the vowel to trace.
+
+U+17BE (ើ): Original SVG direction diagram checked against Rermork WB4 Vowels workbook, PDF page 22 (printed page 23). https://rermork.org/curriculum/vowels/

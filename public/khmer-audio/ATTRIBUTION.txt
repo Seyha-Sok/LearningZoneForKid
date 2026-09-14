@@ -1,0 +1,30 @@
+Khmer pronunciation recordings
+Author: Vathanak Sok
+Sources: Basic Khmer and Intermediate Khmer, Michigan State University Libraries
+https://openbooks.lib.msu.edu/basickhmer/
+https://openbooks.lib.msu.edu/intkhmer/
+Book license: Creative Commons Attribution-NonCommercial 4.0
+https://creativecommons.org/licenses/by-nc/4.0/
+Files copied without audio edits. Individual H5P metadata has no separate license specified.
+See manifest.json for the exact source URL and character mapping evidence.
+No textbook recordings are active. Original textbook audio files remain as unused source assets; the attribution above applies only to those files.
+Character mappings use publisher answer labels, plus the visually matched independent-vowel chart for U+17A7. No automated speech recognition or native-speaker review was performed.
+
+User-provided consonant recording
+Source filename: Khmer alphabet - consonants_[cut_49sec].mp3
+Original author/license not supplied; do not attribute these clips to Vathanak Sok or apply the textbook license to them.
+33 clips split at pauses, converted to mono PCM WAV, with consistent gain and short edge fades. Standard consonant order approved by the user after preview. Source time ranges and hash are in manifest.json.
+
+User-provided vowel-sign recording
+Source filename: The way to pronounce Khmer vowels for អ [â] consonant series_[cut_44sec].mp3
+23 A-series vowel-sign clips; labels approved by the user after preview. Split at pauses, converted to mono PCM WAV, with consistent gain and short edge fades. Original author/license not supplied; these are not covered by the textbook attribution. See manifest.json for time ranges and source hash.
+
+User-provided independent-vowel recording
+Source filename: Khmer Independent Vowels  សរពញត_[cut_77sec].mp3
+13 clips, retaining two repetitions and the original pause per vowel. Labels approved by the user after preview. Converted to mono PCM WAV with consistent gain and short edge fades. Original author/license not supplied; these are not covered by the textbook attribution. See manifest.json for time ranges and source hash.
+
+Independent-vowel clips are currently inactive: character list corrected from the supplied image to end ឱ, ឳ, ឲ្យ. Awaiting replacement audio. Original files retained as unused assets.
+
+Active replacement independent-vowel audio
+Source: Learn to read and identify Khmer Independent Vowels_[cut_28sec].mp3
+13 clips in the corrected order explicitly supplied by the user: ឥ ឦ ឧ ឪ ឫ ឬ ឭ ឮ ឯ ឰ ឱ ឳ ឲ្យ. One pronunciation per clip, trimmed with edge fades and consistent gain. This supersedes the inactive 77-second recording. Original author/license not supplied. Exact source ranges and SHA256 are in manifest.json.

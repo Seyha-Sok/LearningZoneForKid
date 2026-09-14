@@ -1,0 +1,19 @@
+{
+  "voice": "Kokoro af_heart",
+  "generatedLocally": true,
+  "networkDisabledDuringGeneration": true,
+  "prompts": [
+    {
+      "file": "quiz-intro.wav",
+      "text": "Listen carefully. Write this letter.",
+      "seconds": 2.347,
+      "sha256": "5792819886944547a632528f509784d3995bd87309475103a380ec56964c27cf"
+    },
+    {
+      "file": "quiz-correct.wav",
+      "text": "Correct! Well done!",
+      "seconds": 1.393,
+      "sha256": "824e885a3f095255ecb5134d271838a3288f6b48ec421e024cd82b8ea9b0158c"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "little-letters",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "tsc --noEmit && tsc -p server/tsconfig.json && vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "test": "node --experimental-strip-types --test tests/scoring.test.ts",
+    "dev:api": "node --env-file-if-exists=.env --import tsx server/index.ts",
+    "build:api": "tsc -p server/tsconfig.json",
+    "start:api": "node --env-file-if-exists=.env server-dist/index.js",
+    "db:migrate": "node --env-file-if-exists=.env --import tsx server/migrate.ts",
+    "test:api": "tsc -p server/tsconfig.json && node --env-file-if-exists=.env tests/backend.mjs"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.2",
+    "@types/pg": "^8.23.1",
+    "tsx": "^4.23.13",
+    "typescript": "~5.9.3",
+    "vite": "^7.1.0"
+  },
+  "dependencies": {
+    "better-auth": "^1.7.4",
+    "fastify": "^5.12.4",
+    "onnxruntime-web": "^1.29.0",
+    "pg": "^8.23.0"
+  }
+}

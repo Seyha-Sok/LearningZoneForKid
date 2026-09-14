@@ -1,0 +1,242 @@
+{
+  "voice": "Kokoro af_heart",
+  "locale": "en-US",
+  "generatedLocally": true,
+  "networkDisabledDuringGeneration": true,
+  "prompts": [
+    {
+      "letter": "A",
+      "word": "apple",
+      "text": "A is for apple.",
+      "phonemes": "ˈeɪ ɪz fɔːɹ ˈæpəl.",
+      "file": "A.wav",
+      "seconds": 1.307,
+      "sha256": "ebc148670dfd9c4ccdd0adccc923a2e63364a97d063684e9dcecf6316a92eaf0"
+    },
+    {
+      "letter": "B",
+      "word": "butterfly",
+      "text": "B is for butterfly.",
+      "phonemes": "bˈiː ɪz fɔːɹ bˈʌɾɚflˌaɪ.",
+      "file": "B.wav",
+      "seconds": 1.677,
+      "sha256": "496302e7cf8f7a482ee30c0cb2befaa00e2f4256d6eaf58f6b49e33a923d578d"
+    },
+    {
+      "letter": "C",
+      "word": "cat",
+      "text": "C is for cat.",
+      "phonemes": "sˈiː ɪz fɔːɹ kˈæt.",
+      "file": "C.wav",
+      "seconds": 1.307,
+      "sha256": "8d5e4de33026bbd6c2ebc8605b655eba08babfe498e698c274a71b007f08ad64"
+    },
+    {
+      "letter": "D",
+      "word": "dinosaur",
+      "text": "D is for dinosaur.",
+      "phonemes": "dˈiː ɪz fɔːɹ dˈaɪnəsˌɔːɹ.",
+      "file": "D.wav",
+      "seconds": 1.657,
+      "sha256": "fde26cc4e56fe7032715ffea666e71122abe338128c30ddd98b2ac0696b7f636"
+    },
+    {
+      "letter": "E",
+      "word": "elephant",
+      "text": "E is for elephant.",
+      "phonemes": "ˈiː ɪz fɔːɹ ˈɛlɪfənt.",
+      "file": "E.wav",
+      "seconds": 1.498,
+      "sha256": "284905b79670a2981875860f75caa9ca4e20ca082f9557e4dabb8c9ae7fee256"
+    },
+    {
+      "letter": "F",
+      "word": "flower",
+      "text": "F is for flower.",
+      "phonemes": "ˈɛf ɪz fɔːɹ flˈaʊɚ.",
+      "file": "F.wav",
+      "seconds": 1.404,
+      "sha256": "fbf02779353ee997d0f74139b0a38f9b0e50422f9489edfaceccd4b95054e536"
+    },
+    {
+      "letter": "G",
+      "word": "giraffe",
+      "text": "G is for giraffe.",
+      "phonemes": "dʒˈiː ɪz fɔːɹ dʒᵻɹˈæf.",
+      "file": "G.wav",
+      "seconds": 1.527,
+      "sha256": "f32e691403a557b07c6cfeccdd4b95d6bb537aa2282a5942ccedbae92dab29cd"
+    },
+    {
+      "letter": "H",
+      "word": "house",
+      "text": "H is for house.",
+      "phonemes": "ˈeɪtʃ ɪz fɔːɹ hˈaʊs.",
+      "file": "H.wav",
+      "seconds": 1.391,
+      "sha256": "c5e3009e15aab76b501feb4c200e3efb69207ff6b08824f699eeb2e0a9bbf189"
+    },
+    {
+      "letter": "I",
+      "word": "ice cream",
+      "text": "I is for ice cream.",
+      "phonemes": "ˈaɪ ɪz fɔːɹ ˈaɪs kɹˈiːm.",
+      "file": "I.wav",
+      "seconds": 1.572,
+      "sha256": "537855e528ccb73cbc9a77ce762dd575fe0fe350299eb9e562bd5eb65cc47fd8"
+    },
+    {
+      "letter": "J",
+      "word": "jellyfish",
+      "text": "J is for jellyfish.",
+      "phonemes": "dʒˈeɪ ɪz fɔːɹ dʒˈɛlɪfɪʃ.",
+      "file": "J.wav",
+      "seconds": 1.71,
+      "sha256": "f2c83b91876c0047137dcf6cede0b4221c5bc80a2d85bfee836acd911505af18"
+    },
+    {
+      "letter": "K",
+      "word": "kite",
+      "text": "K is for kite.",
+      "phonemes": "kˈeɪ ɪz fɔːɹ kˈaɪt.",
+      "file": "K.wav",
+      "seconds": 1.349,
+      "sha256": "1fdca9bc213111fb91edb43c898032226346f83d8a02c31ca8cbaaa2c2f58701"
+    },
+    {
+      "letter": "L",
+      "word": "lion",
+      "text": "L is for lion.",
+      "phonemes": "ˈɛl ɪz fɔːɹ lˈaɪən.",
+      "file": "L.wav",
+      "seconds": 1.35,
+      "sha256": "528e794ceb8281028c36959a3c8fdbfbaa7f2aa60d6e82d8a09e378996b28396"
+    },
+    {
+      "letter": "M",
+      "word": "moon",
+      "text": "M is for moon.",
+      "phonemes": "ˈɛm ɪz fɔːɹ mˈuːn.",
+      "file": "M.wav",
+      "seconds": 1.3,
+      "sha256": "6231a364cb399712c87cb35d9f6234596e0458cb4d446e75fa2ed9d4cedf0e89"
+    },
+    {
+      "letter": "N",
+      "word": "nest",
+      "text": "N is for nest.",
+      "phonemes": "ˈɛn ɪz fɔːɹ nˈɛst.",
+      "file": "N.wav",
+      "seconds": 1.351,
+      "sha256": "387206225695e97a0b4f4779d92ca6866cca18536dbf080a971f69e9994f36c4"
+    },
+    {
+      "letter": "O",
+      "word": "octopus",
+      "text": "O is for octopus.",
+      "phonemes": "ˈoʊ ɪz fɔːɹ ˈɑːktəpəs.",
+      "file": "O.wav",
+      "seconds": 1.603,
+      "sha256": "2fc0e971dd6233f4446166f3d784c5ccec84255b16ec62bc4177e048684b0e09"
+    },
+    {
+      "letter": "P",
+      "word": "penguin",
+      "text": "P is for penguin.",
+      "phonemes": "pˈiː ɪz fɔːɹ pˈɛŋɡwɪn.",
+      "file": "P.wav",
+      "seconds": 1.487,
+      "sha256": "ec1c6db345c0d3dcc3aa888b0dc957aa58a49794cbfb83791f18928e2ab8dff0"
+    },
+    {
+      "letter": "Q",
+      "word": "queen",
+      "text": "Q is for queen.",
+      "phonemes": "kjˈuː ɪz fɔːɹ kwˈiːn.",
+      "file": "Q.wav",
+      "seconds": 1.349,
+      "sha256": "ea8f3d0cac3f95943f6c9f8d9ed5a38e3c6ae43aab57991487740f58a4228bce"
+    },
+    {
+      "letter": "R",
+      "word": "rainbow",
+      "text": "R is for rainbow.",
+      "phonemes": "ˈɑːɹ ɪz fɔːɹ ɹˈeɪnboʊ.",
+      "file": "R.wav",
+      "seconds": 1.551,
+      "sha256": "0b83c14dad6f822600e0d0b6a56de47b79abd83337976830c5b929d5278fe3d3"
+    },
+    {
+      "letter": "S",
+      "word": "sun",
+      "text": "S is for sun.",
+      "phonemes": "ˈɛs ɪz fɔːɹ sˈʌn.",
+      "file": "S.wav",
+      "seconds": 1.277,
+      "sha256": "a9256b6d0ab692c3da6c944407600ed5a2331638c77e35be5c00eab4e6d91ef9"
+    },
+    {
+      "letter": "T",
+      "word": "turtle",
+      "text": "T is for turtle.",
+      "phonemes": "tˈiː ɪz fɔːɹ tˈɜːɾəl.",
+      "file": "T.wav",
+      "seconds": 1.37,
+      "sha256": "7d7b1c137fe57646c611bd7ec500f7b36695713a9584e96cc94b7b2731d1f64c"
+    },
+    {
+      "letter": "U",
+      "word": "umbrella",
+      "text": "U is for umbrella.",
+      "phonemes": "jˈuː ɪz fɔːɹ ʌmbɹˈɛlə.",
+      "file": "U.wav",
+      "seconds": 1.498,
+      "sha256": "c9318e630282491de52e102d5aac8fea7426c2c984e6cc7f109cd951816ebd1e"
+    },
+    {
+      "letter": "V",
+      "word": "violin",
+      "text": "V is for violin.",
+      "phonemes": "vˈiː ɪz fɔːɹ vaɪəlˈɪn.",
+      "file": "V.wav",
+      "seconds": 1.498,
+      "sha256": "cfa1c7830d6e649dbeb1c6f2f48c0858f5b8666bee3efb41bd86412f7144eebb"
+    },
+    {
+      "letter": "W",
+      "word": "whale",
+      "text": "W is for whale.",
+      "phonemes": "dˈʌbəl jˈuː ɪz fɔːɹ wˈeɪl.",
+      "file": "W.wav",
+      "seconds": 1.657,
+      "sha256": "5ba1fe9ef01bc400a837d6228eea9f63ab029a20b2d3d4c1a8661562cbd56b1e"
+    },
+    {
+      "letter": "X",
+      "word": "xylophone",
+      "text": "X is for xylophone.",
+      "phonemes": "ˈɛks ɪz fɔːɹ zˈaɪləfˌoʊn.",
+      "file": "X.wav",
+      "seconds": 1.636,
+      "sha256": "d34bab67fea19425d11ad7c83ac67cbe9d9fc3a3d6a21d81e76197b5865a0187"
+    },
+    {
+      "letter": "Y",
+      "word": "yo-yo",
+      "text": "Y is for yo-yo.",
+      "phonemes": "wˈaɪ ɪz fɔːɹ jˈoʊjˈoʊ.",
+      "file": "Y.wav",
+      "seconds": 1.497,
+      "sha256": "78e0be817aec20c07264339abc14175b79b1d00b8c3b4f65c3a7db495d126d15"
+    },
+    {
+      "letter": "Z",
+      "word": "zebra",
+      "text": "Z is for zebra.",
+      "phonemes": "zˈiː ɪz fɔːɹ zˈiːbɹə.",
+      "file": "Z.wav",
+      "seconds": 1.434,
+      "sha256": "920f8fd8a6c679cb6661f5c00bda09a0cd242e7172b32437cb26a24650fbbf4a"
+    }
+  ]
+}

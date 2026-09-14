@@ -141,3 +141,15 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# Little Letters local development
+node_modules/
+dist/
+.checks/
+*.log
+__pycache__/
+*.pyc
+server-dist/
+.env
+.env.*
+!.env.example
