@@ -86,6 +86,8 @@ Open `khmer.html` or use the English / Khmer navigation. The first version inclu
 
 The Khmer group dropdown also includes 23 vowel-sign forms (common combinations included), 13 independent-vowel practice forms following the supplied reference (ending ឱ, ឳ, ឲ្យ), and Khmer numbers ០ through ៩. 22 vowel signs have locally bundled, attributed worksheet direction guides. Independent vowels and numbers currently use pale shape-only references, explicitly labeled without stroke directions. A dotted circle indicates where a consonant belongs and is not part of the vowel. Group changes clear the current drawing. No AI scoring is used on the Khmer page.
 
+The **Collect samples** mode records labeled SVG-coordinate strokes in browser storage. It rejects dots and very short marks, advances after each saved sample, and exports all collected drawings as one `khmer-training-samples.json` file. The export contains the group, requested character, strokes, and coordinate-space metadata; it does not include account or learner information. Collection does not upload data or train a model by itself.
+
 The vowel sign ើ now has an original numbered guide checked against Rermork WB4 PDF page 22 (printed page 23). All 23 vowel-sign forms have numbered guides. Independent-vowel stroke directions remain unverified; the app continues to label those guides as shape-only.
 
 ### Khmer pronunciation audio
